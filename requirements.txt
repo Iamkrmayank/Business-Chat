@@ -1,5 +1,5 @@
-streamlit==1.33.0
-pandas==2.2.1
-sqlalchemy==2.0.29
-openai==1.15.0
-psycopg2-binary==2.9.9
+streamlit
+pandas
+sqlalchemy
+openai
+psycopg2-binary
